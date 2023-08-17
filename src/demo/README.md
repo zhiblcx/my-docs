@@ -1,17 +1,16 @@
 ---
-title: 主要功能与配置演示
+title: 代码笔记
 index: false
-icon: laptop-code
+icon: code
+headerDepth: 0
 category:
   - 使用指南
 ---
 
 ## 目录
 
-- [Markdown 展示](markdown.md)
+- ### [Markdown 展示](markdown/README.md)
 
-- [页面展示](page.md)
+- ### [Node.js](node/README.md)
 
-- [禁用展示](disable.md)
 
-- [加密展示](encrypt.md)
